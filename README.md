@@ -1,0 +1,3 @@
+# Morse_GUI
+SIT210: Embedded Systems Development Task 5.3D RPi - Blink Morse code using GUI
+In this task, we developed a more complex GUI interface. The aim of this task was to build a GUI interface on the Raspberry Pi that has two elements: a text box and a button. The text box allows the user to enter a word (maximum 12 characters). When pressing the button, the system will blink a connected LED light with the Morse code pattern of the word. We used the Use the learning and experience achieved from task 5.2C to complete this task. We used python programming languages and GUI package (TKinter) same as 5.2C.
